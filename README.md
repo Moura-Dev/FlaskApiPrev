@@ -63,10 +63,6 @@ modelo de url = User/1/
 
 
 
-
-############################################################## PRODUCT #######################################
-
-
 # Endpoint Consultar Product (Listar todas as produtos no banco):
 
 Method: Get
@@ -118,12 +114,6 @@ url = /Product/id"/ (Put)
 
 modelo de url = Product/1/
 
-
-
-
-
-
-############################ Order ##############################
 
 
 
